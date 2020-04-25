@@ -20,4 +20,10 @@ function rate(amount, interest)
     return interest / amount
 end
 
+function hello()
+    return "hello"
+end
+
+include("Sub.jl")
+
 end # module

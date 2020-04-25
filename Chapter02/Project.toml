@@ -1,0 +1,3 @@
+[deps]
+Calculator = "db3c262e-fe57-55aa-ad54-d3c64a4d0c83"
+Rater = "b95f3570-8504-42aa-9393-eb5298dd55cc"
